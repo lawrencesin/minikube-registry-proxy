@@ -1,4 +1,4 @@
-FROM busybox
+FROM alpine
 
 ARG KUBE_LATEST_VERSION="v1.10.5"
 
